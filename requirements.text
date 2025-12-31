@@ -1,0 +1,29 @@
+# Frontend
+streamlit
+
+# Generative AI
+google-generativeai
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Language Detection
+langdetect
+
+# Core ML / NLP
+torch
+transformers
+
+# Data Handling
+numpy
+pandas
+
+# Notebook Support (for .ipynb files)
+jupyter
+notebook
+
+# Utilities
+tqdm
